@@ -79,9 +79,6 @@ A comprehensive full-stack AI-powered nutrition coaching application with person
 - API Keys (see below)
 
 ### 1. Clone the Repository
-```bash
-cd c:/Users/Desktop/Major
-```
 
 ### 2. Backend Setup
 ```bash

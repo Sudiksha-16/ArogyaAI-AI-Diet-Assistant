@@ -80,7 +80,7 @@ A comprehensive full-stack AI-powered nutrition coaching application with person
 
 ### 1. Clone the Repository
 ```bash
-cd c:/Users/sudik/Desktop/Major
+cd c:/Users/Desktop/Major
 ```
 
 ### 2. Backend Setup
@@ -92,7 +92,7 @@ npm install
 Create `.env` file in `backend/` directory:
 ```env
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/ai-diet-assistant
+MONGODB_URI=your_mongo_db_uri
 JWT_SECRET=your_super_secret_jwt_key_change_this
 
 OPENAI_API_KEY=sk-...
